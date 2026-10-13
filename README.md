@@ -1,4 +1,4 @@
-# ✓ Today: React Todo
+# Todo list
 
 A minimal, keyboard-friendly todo app built with **React** and **Vite**.
 Day 1 of my build-and-learn series.
